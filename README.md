@@ -10,6 +10,11 @@ It utilizes the [Flesh Reading Ease](https://en.wikipedia.org/wiki/Flesch%E2%80%
 Just do a `git clone https://github.com/{user}/{repo}` and you have it.
 
 ## Usage
+
+`python3 <language> <source>`
+* language: `en` or `de`
+* source: URL or a `path/to/file`
+
 Example for a local test file (included in repository):
 ```bash
 cd ./lib
